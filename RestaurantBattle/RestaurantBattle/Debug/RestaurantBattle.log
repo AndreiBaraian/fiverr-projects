@@ -1,0 +1,9 @@
+﻿  Source.cpp
+e:\facultate\fiverr\restaurantbattle\restaurantbattle\source.cpp(11): warning C4018: '<': signed/unsigned mismatch
+e:\facultate\fiverr\restaurantbattle\restaurantbattle\source.cpp(18): warning C4018: '<': signed/unsigned mismatch
+e:\facultate\fiverr\restaurantbattle\restaurantbattle\source.cpp(49): warning C4018: '<': signed/unsigned mismatch
+e:\facultate\fiverr\restaurantbattle\restaurantbattle\source.cpp(62): warning C4018: '>': signed/unsigned mismatch
+e:\facultate\fiverr\restaurantbattle\restaurantbattle\source.cpp(66): warning C4018: '<': signed/unsigned mismatch
+e:\facultate\fiverr\restaurantbattle\restaurantbattle\source.cpp(98): warning C4018: '<': signed/unsigned mismatch
+  RestaurantBattle.vcxproj -> E:\Facultate\Fiverr\RestaurantBattle\Debug\RestaurantBattle.exe
+  RestaurantBattle.vcxproj -> E:\Facultate\Fiverr\RestaurantBattle\Debug\RestaurantBattle.pdb (Full PDB)

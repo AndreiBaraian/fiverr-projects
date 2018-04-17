@@ -1,0 +1,8 @@
+﻿  Source.cpp
+e:\facultate\fiverr\plinko\plinko\source.cpp(61): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+e:\facultate\fiverr\plinko\plinko\source.cpp(67): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+e:\facultate\fiverr\plinko\plinko\source.cpp(74): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+e:\facultate\fiverr\plinko\plinko\source.cpp(78): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+e:\facultate\fiverr\plinko\plinko\source.cpp(92): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Plinko.vcxproj -> E:\Facultate\Fiverr\Plinko\Debug\Plinko.exe
+  Plinko.vcxproj -> E:\Facultate\Fiverr\Plinko\Debug\Plinko.pdb (Full PDB)

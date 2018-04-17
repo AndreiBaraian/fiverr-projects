@@ -1,0 +1,20 @@
+﻿  Pathfinder.cpp
+e:\facultate\fiverr\maze\maze\pathfinder.cpp(2): error C2011: 'Pathfinder': 'class' type redefinition
+  e:\facultate\fiverr\maze\maze\pathfinder.h(5): note: see declaration of 'Pathfinder'
+  main.cpp
+e:\facultate\fiverr\maze\maze\main.cpp(38): error C2259: 'Pathfinder': cannot instantiate abstract class
+  e:\facultate\fiverr\maze\maze\main.cpp(38): note: due to following members:
+  e:\facultate\fiverr\maze\maze\main.cpp(38): note: 'std::string Pathfinder::toString(void) const': is abstract
+  e:\facultate\fiverr\maze\maze\pathfinder.h(9): note: see declaration of 'Pathfinder::toString'
+e:\facultate\fiverr\maze\maze\main.cpp(69): error C2039: 'importMaze': is not a member of 'Pathfinder'
+  e:\facultate\fiverr\maze\maze\pathfinder.h(5): note: see declaration of 'Pathfinder'
+e:\facultate\fiverr\maze\maze\main.cpp(81): error C2039: 'createRandomMaze': is not a member of 'Pathfinder'
+  e:\facultate\fiverr\maze\maze\pathfinder.h(5): note: see declaration of 'Pathfinder'
+e:\facultate\fiverr\maze\maze\main.cpp(82): error C2039: 'solveMaze': is not a member of 'Pathfinder'
+  e:\facultate\fiverr\maze\maze\pathfinder.h(5): note: see declaration of 'Pathfinder'
+e:\facultate\fiverr\maze\maze\main.cpp(83): warning C4018: '<': signed/unsigned mismatch
+e:\facultate\fiverr\maze\maze\main.cpp(95): error C2039: 'solveMaze': is not a member of 'Pathfinder'
+  e:\facultate\fiverr\maze\maze\pathfinder.h(5): note: see declaration of 'Pathfinder'
+e:\facultate\fiverr\maze\maze\main.cpp(140): warning C4018: '<': signed/unsigned mismatch
+e:\facultate\fiverr\maze\maze\main.cpp(145): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
